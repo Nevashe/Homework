@@ -1,4 +1,4 @@
-package homework;
+package level2;
 
 public class Main {
 }
